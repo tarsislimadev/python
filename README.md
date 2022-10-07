@@ -1,8 +1,8 @@
-# Node.js projects
+# Python projects
 
-A set of services written in [Node.js](https://nodejs.org/en/)
+A set of services written in [Python](https://www.python.org/)
 
-## projects
+## Projects
 
 [Finish tasks](./tasks-finish/README.md)
 
@@ -16,8 +16,6 @@ A set of services written in [Node.js](https://nodejs.org/en/)
 
 [Register users](./users-register/README.md)
 
-## license
+## License
 
 [MIT](./LICENSE)
-# python
-# python
