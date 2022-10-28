@@ -1,6 +1,6 @@
 # Python projects
 
-Coleção de serviços escritos em [Python](https://www.python.org/)
+Para projetos escritos em [Python](https://www.python.org/)
 
 ## How to
 
