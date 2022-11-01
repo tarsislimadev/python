@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  server:
+    build: './src/main-python-file'
+    volumes:
+      - './src/main-python-file:/app'
+    ports:
+      - '80:80'
