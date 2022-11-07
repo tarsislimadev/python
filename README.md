@@ -1,10 +1,10 @@
-# Python projects
+# Python project
 
-Para projetos escritos em [Python](https://www.python.org/)
+Para compilação e entrega de projetos escritos em [Python](https://www.python.org/)
+
+## Stack
 
 ## How to
-
-TODO
 
 ## License
 
