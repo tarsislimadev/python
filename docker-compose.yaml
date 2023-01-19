@@ -7,3 +7,11 @@ services:
       - './src/app:/app'
     ports:
       - '80:80'
+
+  github-release:
+    image: 'github-release'
+    build: './src/app'
+
+  docker-push:
+    image: 'tmvdl/projects:python'
+    build: './src/app'
