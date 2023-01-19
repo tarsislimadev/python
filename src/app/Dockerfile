@@ -8,4 +8,6 @@ WORKDIR /app
 
 COPY . .
 
-CMD python .
+CMD /usr/local/bin/python . 
+
+# 3.10 main.py
