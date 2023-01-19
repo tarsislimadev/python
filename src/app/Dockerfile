@@ -8,6 +8,8 @@ WORKDIR /app
 
 COPY . .
 
-CMD /usr/local/bin/python . 
+# RUN /usr/local/bin/python __main__.py bdist
 
-# 3.10 main.py
+# RUN ls -la dist
+
+CMD /usr/local/bin/python __main__.py
