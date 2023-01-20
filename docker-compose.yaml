@@ -10,7 +10,7 @@ services:
 
   github-release:
     image: 'github-release'
-    build: './src/app'
+    build: './src'
 
   docker-push:
     image: 'tmvdl/projects:python'
