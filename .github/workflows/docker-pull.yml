@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Docker pull
-        run: docker push tmvdl/projects -a
+        run: docker pull tmvdl/projects -a
