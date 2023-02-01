@@ -1,6 +1,5 @@
 import threading
 import socket
-import os
 
 def listen(port = 80):
   server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

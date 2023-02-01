@@ -1,10 +1,10 @@
 version: '3'
 
 services:
-  app:
-    build: './src/app'
+  http:
+    build: './src/http'
     volumes:
-      - './src/app:/app'
+      - './src/http:/http'
     ports:
       - '80:80'
 
@@ -14,4 +14,4 @@ services:
 
   docker-push:
     image: 'tmvdl/projects:python'
-    build: './src/app'
+    build: './src/http'
