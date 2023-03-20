@@ -10,7 +10,7 @@ To compile projects written in [Python](https://www.python.org/).
 
 ...
 
-## Projects
+## Services
 
 ...
 
